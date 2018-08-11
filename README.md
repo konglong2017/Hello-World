@@ -9,4 +9,3 @@ getting farmiliar with github, for example watch, star, fork....
 practicing to use git that is a free software contributed tool.
 
 ##Fourth step
-Using 'git checkout -b branck2' to creacte a new branch.
