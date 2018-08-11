@@ -8,5 +8,10 @@ getting farmiliar with github, for example watch, star, fork....
 ##Second step
 practicing to use git that is a free software contributed tool.
 
+<<<<<<< HEAD
 ##Fourth step
-using 'git checkout -b branck2' to cteate a new branch & switch to it at sametime.
+using 'git checkout -b branch2' to cteate a new branch and switch to it at sametime.
+=======
+#Fourth step
+using 'git checkout -b branch2' to create a new branch and switch to it at sametime.
+>>>>>>> branck2
