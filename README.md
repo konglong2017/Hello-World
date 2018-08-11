@@ -15,3 +15,6 @@ using 'git checkout -b branch2' to cteate a new branch and switch to it at samet
 #Fourth step
 using 'git checkout -b branch2' to create a new branch and switch to it at sametime.
 >>>>>>> branck2
+
+##Fifth step
+using '--no-ff' to merge branch.
