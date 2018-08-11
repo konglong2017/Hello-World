@@ -9,4 +9,4 @@ getting farmiliar with github, for example watch, star, fork....
 practicing to use git that is a free software contributed tool.
 
 #Fourth step
-using 'git checkout -b branch2' to cteacte a new branch and switch to it at sametime.
+using 'git checkout -b branch2' to create a new branch and switch to it at sametime.
