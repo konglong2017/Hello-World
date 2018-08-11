@@ -18,3 +18,5 @@ using 'git checkout -b branch2' to create a new branch and switch to it at samet
 
 ##Fifth step
 using '--no-ff' to merge branch.
+
+hello.cpp used to test.
