@@ -8,6 +8,9 @@ getting farmiliar with github, for example watch, star, fork....
 ## Second step
 practicing to use git that is a free software contributed tool.
 
+## third step
+using 'git init' to intializate a local reposity.
+
 ## Fourth step
 using 'git checkout -b branch2' to create a new branch and switch to it at sametime.
 
